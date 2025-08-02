@@ -1,2 +1,2 @@
-# My-Mini-projects
+small practices on main concepts.
 LEARN.CREATE.⚡️
