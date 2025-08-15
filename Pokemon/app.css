@@ -1,7 +1,25 @@
 .pokemon {
     display: inline-block;
     text-align: center;
+    align-items: stretch;
+    padding: 1rem;
+    margin: 8px;
+    border: 2px solid black;
+    border-radius: 8px;
 }
 .pokemon img {
-    display: block;
+    display: inline-block;
+}
+.pokemon p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px;
+    background-color: rgb(245, 123, 78);
+}
+.pokemon span {
+    display: flex;
+    justify-content: center;
 }
